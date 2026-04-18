@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"place_id":{"$numberInt":"1"}},"name":"place_id_1"},{"v":{"$numberInt":"2"},"key":{"rating":{"$numberInt":"1"}},"name":"rating_1"}],"uuid":"8609bf4e23e44b948991808abb81a702","collectionName":"restaurant_reviews","type":"collection"}
